@@ -5,8 +5,8 @@ from instapy import InstaPy
 from instapy.util import smart_run
 
 # login credentials
-insta_username = 'kevlxr'
-insta_password = 'rene7465'
+insta_username = ''
+insta_password = ''
 
 dont_likes = ['gay']
 
